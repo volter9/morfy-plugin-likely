@@ -1,0 +1,6 @@
+{
+    "name": "morfy-plugin-likely",
+    "dependencies": {
+        "ilyabirman-likely": "2.0.7"
+    }
+}

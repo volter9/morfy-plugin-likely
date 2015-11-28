@@ -1,0 +1,14 @@
+name: Likely
+version: 0.0.1
+description: "Social sharing plugin for Morfy (based on Likely)"
+author:
+  name: Evgeny Steblinsky
+  email: volter925@gmail.com
+  url: http://volter9.github.io
+
+homepage: https://github.com/volter9/morfy-plugin-likely
+bugs: https://github.com/volter9/morfy-plugin-likely/issues
+license: MIT
+
+# Plugin configuration
+enabled: true
