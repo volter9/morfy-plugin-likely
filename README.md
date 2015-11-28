@@ -19,3 +19,7 @@ Or pass classes to configure size and theme for Likely:
 ```
 {Likely::buttons('', '', 'likely-big')}
 ```
+
+# Download
+
+Download latest version in [releases](https://github.com/volter9/morfy-plugin-likely/releases).
